@@ -1,0 +1,9 @@
+{
+  "Name": "CET6 Reading Mod",
+  "Author": "YourName",
+  "Version": "1.0.0",
+  "Description": "Press F9 to answer questions.",
+  "UniqueID": "YourName.CET6ReadingMod",
+  "EntryDll": "CET6ReadingMod.dll",
+  "MinimumApiVersion": "4.0.0"
+}
